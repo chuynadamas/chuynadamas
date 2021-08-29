@@ -1,5 +1,8 @@
 # Lazzaro
 
+This is the lazzaro project.
+
+```
  ________________________________________
 / "I'd love to go out with you, but I    \
 \ have to stay home and see if I snore." /
@@ -9,4 +12,5 @@
             (__)\       )\/\
                 ||----w |
                 ||     ||
+```
                 
