@@ -14,11 +14,12 @@ struct Lazzaro: Website {
     }
 
     // Update these properties to configure your website:
-    var url = URL(string: "https://your-website-url.com")!
-    var name = "Lazzaro"
-    var description = "A description of Lazzaro"
+    var url = URL(string: "https://cerovaroproductions.com")!
+    var name = "Cero Varo Productions"
+    var description = "This is the lazaro project, the man who return from dead"
     var language: Language { .english }
     var imagePath: Path? { nil }
+    
 }
 
 // This will generate your website using the built-in Foundation theme:
