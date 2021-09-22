@@ -1,6 +1,6 @@
 ## Hi there, I'm [Chuy][twitter] 👋
 
-### I'm a Developer, and Teacher!!
+### I'm a developer, and try to do my best as a leader!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
