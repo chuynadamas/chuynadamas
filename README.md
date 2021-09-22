@@ -1,4 +1,4 @@
-## Hi there, I'm Jesus - aka [Chuy][twitter] 👋
+## Hi there, I'm [Chuy][twitter] 👋
 
 ### I'm a Developer, and Teacher!!
 
