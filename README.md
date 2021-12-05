@@ -26,6 +26,6 @@
 <br />
 <br />
 
-[twitter]: https://twitter.com/NobodyLabs
+[twitter]: https://twitter.com/chuynadalabs
 [instagram]: https://www.instagram.com/nadamasfoto/
 [linkedin]: https://www.linkedin.com/in/jesús-cruz-pérez-0a2a668b/
