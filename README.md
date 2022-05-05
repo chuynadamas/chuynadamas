@@ -7,6 +7,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to take photographs 📸 and climbing walls 🧗🏼‍♂️
 
+<!--
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://image.flaticon.com/icons/png/128/733/733579.png" />][twitter]
@@ -29,3 +30,4 @@
 [twitter]: https://twitter.com/chuynadalabs
 [instagram]: https://www.instagram.com/nadamasfoto/
 [linkedin]: https://www.linkedin.com/in/jesús-cruz-pérez-0a2a668b/
+-->
