@@ -1,4 +1,4 @@
-## Hi there, I'm [Chuy][twitter] 👋
+## Hi there, I'm Chuy👋
 
 ### I'm a developer, and try to do my best as a leader!
 
